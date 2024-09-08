@@ -10,7 +10,7 @@
 # variable = 1
 
 # W605: To use the crimson-templator module
-ignore = E501, W605, E203, W503
+ignore = E501, W605, E203, W503, F401
 
 # E305: To add 
 per-file-ignores =
